@@ -29,3 +29,5 @@ class truck(vehicle):
     def beep(self):
         print('honk honk')
 
+tesla=car(100,'$45K','white',300 )
+tesla.beep()
